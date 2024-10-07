@@ -1,6 +1,6 @@
 # NCSACTFBootcmp2024-2
 ![cover](resource/COVER.png)
-## ** Date**
+## **Date**
 14-15 September 2024
  ** Location:** Ruean Phae Royal Park Hotel - Phitsanulok
 
