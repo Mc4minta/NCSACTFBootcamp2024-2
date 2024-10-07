@@ -14,6 +14,6 @@ Agent Tesla
 ### **Individual Rank:** 
 15th - 210 points
     
-One Problem (200) + First Blood Bonus (10)
+[Sound Of Doc (200)](CTF/Problems/for2-SoundOfDoc.png) + First Blood Bonus (10)
 
 ![leaderboard](CTF/Leaderboard-final.png)
