@@ -6,10 +6,10 @@
 
 ## **Team:** 
 Agent Tesla
-## **Team Rank:** 
+### **Team Rank:** 
 1st - 1320 points
 
-## **Individual Rank:** 
+### **Individual Rank:** 
 15th - 210 points
 
 ![leaderboard](CTF/Leaderboard-final.png)
