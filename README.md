@@ -17,3 +17,5 @@ Agent Tesla
 [Sound Of Doc (200)](CTF/Problems/for2-SoundOfDoc.png) + First Blood Bonus (10)
 
 ![leaderboard](CTF/Leaderboard-final.png)
+
+[Leader Board Link](https://cloud.ctf.in.th/score/view.html?id=DVBTLV9D0W&t=oL3n5Xg2DaZaVIiale3QRXEtycxrtBSQuQOat+sUnJU=)
